@@ -1,8 +1,5 @@
 ## À propos de moi
 
-Ellipse Synergie  
-  _emile.bergeron<i class="fa fa-fw fa-at"></i>ellipse-synergie.com_
-
 <i class="fa fa-fw fa-github"></i>
 <i class="fa fa-fw fa-twitter"></i>
 
