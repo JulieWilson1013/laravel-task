@@ -19,7 +19,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git@github.com:JulieWilson1013/laravel-talk.git"
+=======
+    "url": "git@github.com:emileber/laravel-talk.git"
+>>>>>>> 5c80cce4f1691b6497dcbb827c3347125e3f3fa4
   },
   "scripts": {
     "test": "grunt test",
