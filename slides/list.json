@@ -1,0 +1,63 @@
+[
+    "index.md",
+    [
+        "about.md",
+        "about/school.md",
+        "about/work.md",
+        {
+            "filename": "about/saglac-io.md",
+            "attr": {
+                "data-background": "resources/banner.png"
+            }
+        }
+    ],
+    "summary.md",
+    "introduction/different-websites.md",
+    [
+        "techno/technologies.md",
+        "techno/static.md",
+        "techno/dynamic.md",
+        "techno/libraries.md",
+        "techno/framework.md",
+        "techno/static-framework.html",
+        "techno/cms.md",
+        "techno/static-cms.md"
+    ],
+    [
+        "laravel/laravel.md",
+        "laravel/foundation.md",
+        "laravel/google-trends.md",
+        "laravel/stackoverflow-trends.md"
+    ],
+    [
+        "demo/demo.md",
+        "demo/requirements.md",
+        "demo/composer.md",
+        "demo/installation.md",
+        "demo/artisan.md",
+        "demo/migrations.md",
+        "demo/models.md",
+        "demo/routing.md",
+        "demo/views.md",
+        "demo/templates.md",
+        "demo/validation.md",
+        "demo/controllers.md",
+        "demo/result.md"
+    ],
+    [
+        "features/features.html",
+        "features/security.md",
+        "features/cache.md",
+        "features/configurations.md",
+        "features/middleware.md",
+        "features/emails.md",
+        "features/session.md",
+        "features/error.md",
+        "features/storage.md",
+        "features/unit-tests.md",
+        "features/more.md"
+    ],
+    "laracast.md",
+    "lumen.md",
+    "questions.md"
+]
