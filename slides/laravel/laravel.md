@@ -4,7 +4,6 @@
 
 Framework PHP open source  
 Utilise le modèle d'architecture MVC (Modèle-vue-contrôleur)  
-Populaire
 
 Note:
 Malgré la mauvaise réputation de PHP, les gens aiment Laravel.
